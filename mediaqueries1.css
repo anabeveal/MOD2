@@ -1,0 +1,29 @@
+body{
+    background-color: rgba(146, 199, 146, 0.758);
+}
+.contenedor{
+    width: 940px;
+    display: flex;
+    margin-left: 0px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#caja1{
+    width: 180px;
+    height: 100px;
+    background-color: rgb(222, 81, 81);
+    margin-left: 0px;
+    text-align: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+#caja2{
+    background-color: rgb(226, 240, 192);
+    width: 500px;
+    height: 200px;
+}
+#caja3{
+    background-color: rgb(166, 166, 131);
+    width: 200px;
+    height: 300px;
+}
