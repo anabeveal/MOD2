@@ -15,7 +15,6 @@ body{
     margin-left: 0px;
     text-align: center;
     align-items: center;
-    box-sizing: border-box;
 }
 #caja2{
     background-color: rgb(226, 240, 192);
@@ -27,3 +26,4 @@ body{
     width: 200px;
     height: 300px;
 }
+
